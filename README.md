@@ -36,14 +36,6 @@ to improve my programming, networking, and security skills.
 - Linux Fundamentals
 - Python
 - Git & GitHub
-- 
-- ## 📚 Currently Learning
-
-- Networking Fundamentals
-- Web Security
-- Linux Fundamentals
-- Python
-- Git & GitHub
 ---
 ## 🗺️ My Learning Roadmap
 
