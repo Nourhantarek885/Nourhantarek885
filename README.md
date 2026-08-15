@@ -45,6 +45,18 @@ to improve my programming, networking, and security skills.
 - Python
 - Git & GitHub
 ---
+## 🗺️ My Learning Roadmap
+
+- [x] Git & GitHub
+- [x] HTML & CSS Basics
+- [x] JavaScript Basics
+- [x] Networking Basics
+- [ ] Linux Fundamentals
+- [ ] Python for Cybersecurity
+- [ ] Web Security
+- [ ] Security+ Fundamentals
+- [ ] Bug Bounty Basics
+- [ ] Build More Security Projects
 
 ⭐ Thanks for visiting my profile!
 
