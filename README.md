@@ -7,30 +7,43 @@ to improve my programming, networking, and security skills.
 
 ## 🛠️ Skills I'm Learning
 
-- 🌐 Networking
-- 🔐 Cybersecurity
-- 🕸️ Web Security
-- 💻 HTML, CSS & JavaScript
-- 🐙 Git & GitHub
+### 🔐 Cybersecurity
+- Cybersecurity Fundamentals
+- Web Security
+- Authentication & Authorization
+- Security Best Practices
 
-## 🚀 Projects
+### 🌐 Networking
+- IPv4
+- Subnetting
+- CIDR
+- TCP/IP
+- Common Ports & Protocols
 
-### 🌐 Network Security Toolkit
-Educational networking toolkit with IPv4 validation, subnetting,
-CIDR calculations, ports, and protocols.
+### 💻 Programming
+- HTML
+- CSS
+- JavaScript
 
-### 🔐 Password Strength Checker
-A browser-based password strength checker with requirements
-validation and a dynamic strength indicator.
+### 🧰 Tools
+- Git
+- GitHub
+- GitHub Pages
+- ## 📚 Currently Learning
 
-### 🎮 Cybersecurity Quiz
-An interactive quiz for practicing basic cybersecurity concepts.
+- Networking Fundamentals
+- Web Security
+- Linux Fundamentals
+- Python
+- Git & GitHub
+- 
+- ## 📚 Currently Learning
 
-## 🎯 Current Goal
-
-Build strong foundations in Networking and Cybersecurity
-and keep learning through practical projects.
-
+- Networking Fundamentals
+- Web Security
+- Linux Fundamentals
+- Python
+- Git & GitHub
 ---
 
 ⭐ Thanks for visiting my profile!
