@@ -1,16 +1,39 @@
-# 💫 About Me:
-# 👋 Hi, I'm Nourhan
+# 👋 Hi, I'm Nora
 
-🔐 Cybersecurity Beginner
-🌐 Networking & Web Security
-💻 Learning HTML, CSS & JavaScript
-🚀 Building cybersecurity projects
+### 🔐 Cybersecurity Beginner | Networking & Web Security
 
-### Projects
-🔐 Password Strength Checker
-🌐 Network Security Toolkit
-🎮 Cybersecurity Quiz
+I'm currently learning cybersecurity and building projects
+to improve my programming, networking, and security skills.
 
+## 🛠️ Skills I'm Learning
+
+- 🌐 Networking
+- 🔐 Cybersecurity
+- 🕸️ Web Security
+- 💻 HTML, CSS & JavaScript
+- 🐙 Git & GitHub
+
+## 🚀 Projects
+
+### 🌐 Network Security Toolkit
+Educational networking toolkit with IPv4 validation, subnetting,
+CIDR calculations, ports, and protocols.
+
+### 🔐 Password Strength Checker
+A browser-based password strength checker with requirements
+validation and a dynamic strength indicator.
+
+### 🎮 Cybersecurity Quiz
+An interactive quiz for practicing basic cybersecurity concepts.
+
+## 🎯 Current Goal
+
+Build strong foundations in Networking and Cybersecurity
+and keep learning through practical projects.
+
+---
+
+⭐ Thanks for visiting my profile!
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/noratarekk1) 
