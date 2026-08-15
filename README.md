@@ -1,5 +1,15 @@
 # 💫 About Me:
-# Hey, I'm Nora 👋<br><br>🔐 Cybersecurity Enthusiast | 🌐 Networking | 💻 Computer Science Student<br><br>Currently learning **Cybersecurity, Networking & Web Security** and building projects along the way.<br><br>🚀 Learning today. Securing tomorrow.<br>
+# 👋 Hi, I'm Nora
+
+🔐 Cybersecurity Beginner
+🌐 Networking & Web Security
+💻 Learning HTML, CSS & JavaScript
+🚀 Building cybersecurity projects
+
+### Projects
+🔐 Password Strength Checker
+🌐 Network Security Toolkit
+🎮 Cybersecurity Quiz
 
 
 ## 🌐 Socials:
